@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Airflow Logs
+logs/
+*.log
+
+# Environments
+.env
+*.env
+
+# System files
+.DS_Store
